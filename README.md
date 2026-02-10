@@ -19,8 +19,8 @@ Este projeto tem como objetivo principal consolidar conhecimentos em desenvolvim
 
 🚀 Tecnologias Utilizadas
 ☕ Java
-🌱 Spring Boot
-Spring Web
+🌱 Spring Boot,
+Spring Web,
 Spring Data JPA
 🗄️ H2 Database
 📦 Maven
